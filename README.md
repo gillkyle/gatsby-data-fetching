@@ -9,3 +9,5 @@
 </h1>
 
 This repository has examples for fetching data at build time or at runtime. Static data can be fed into components after being gathered up during a `gatsby build` and dynamic data can be fetched when the page loads in the browser. Refer to [http://gatsbyjs.org/docs/data-fetching](http://gatsbyjs.org/docs/data-fetching)
+
+Note: In order to get data from GitHub (like this example uses), you need to provide a token in your request.
